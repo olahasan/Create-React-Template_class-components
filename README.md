@@ -75,9 +75,9 @@ Otherwise, all links will open in the same tab.
 
 ## what-i-learned
 Through this project:
-1-I learned  how to create react app and treat with calss component.
-2-how to deal with "react-router-dom" library using (BrowserRouter , Route, Routes)
-3-how to deploy it on netlify
+1. I learned  how to create react app and treat with calss component.
+2. how to deal with "react-router-dom" library using (BrowserRouter , Route, Routes)
+3. how to deploy it on netlify
 
 ## Continued Development
 In the future, I plan to:
