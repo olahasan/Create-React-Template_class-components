@@ -68,7 +68,8 @@ Otherwise, all links will open in the same tab.
 
  ## Screenshot
  
-![Screenshot](./public/template.png)
+![Screenshot](./public/images/template.png)
+![Screenshot](./public/images/template2.png)
 
 
 ## what-i-learned
