@@ -70,6 +70,7 @@ Otherwise, all links will open in the same tab.
  
 ![Screenshot](./public/images/template.png)
 ![Screenshot](./public/images/template2.png)
+![Screenshot](./public/images/template3.png)
 
 
 ## what-i-learned
